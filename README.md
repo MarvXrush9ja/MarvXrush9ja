@@ -5,7 +5,7 @@ A Software developer specializing in web development. An experienced developer w
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/html5.svg" alt="HTML logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/html5.svg" alt="HTML logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase logo" width="50" height="50"/>
 ---
 ## &#x1f4c8; My GitHub Stats
 
